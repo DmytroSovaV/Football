@@ -83,12 +83,14 @@ img {
 }
 
 .titlebox img {
-    margin:0 35px;
+    margin: 0 35px;
 
 }
-
-.titlebox img:hover {
-    margin-left: 200px;
+.titlebox picture{
+    
+}
+.titlebox picture:hover {
+    padding-left: 200px;
     transition: all 3s ease;
 }
 
